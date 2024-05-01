@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "2046fcdce9b27f6c0a7c421bb946f4340e55d5c90c74694b2991d42f7a90f756"
+            "sha256": "67347a65a10486ac9a6ae76930a90dbaeb83931d310512458a72dee5ca7b8925"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1011,6 +1011,14 @@
             "markers": "python_version >= '3.8'",
             "version": "==1.16.0"
         },
+        "onnxconverter-common": {
+            "hashes": [
+                "sha256:6e431429bd15325c5b2c3eab61bed0d5634c23ed58f8823961be448d629d014a",
+                "sha256:9723e4a9b47f283e298605dce9f357d5ebd5e5e70172fca26e282a1b490916c4"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==1.14.0"
+        },
         "onnxmltools": {
             "hashes": [
                 "sha256:c51608ead3806a50f2cd70d466ee46c6e71a3f315ac629b0dffaa1081206a66c",
@@ -1353,6 +1361,14 @@
                 "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "version": "==1.16.0"
+        },
+        "skl2onnx": {
+            "hashes": [
+                "sha256:3370b3d4065ce2dc5933878c3273f4aea41f945cc6514543b13ad2d57f369ce5",
+                "sha256:7de548580c625bfa5893fe79c9dd3213c3720b12e1ff8e3fd28967da0698242d"
+            ],
+            "index": "pypi",
             "version": "==1.16.0"
         },
         "stack-data": {

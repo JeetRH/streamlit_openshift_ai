@@ -17,6 +17,7 @@ pandas = "*"
 numpy = "*"
 ipykernel = "*"
 onnxmltools = "*"
+skl2onnx = "*"
 
 [requires]
 python_version = "3.11"

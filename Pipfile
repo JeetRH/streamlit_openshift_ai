@@ -13,10 +13,10 @@ python-dotenv = "*"
 ruff = "*"
 scikit-learn = "*"
 lightgbm = "*"
-xgboost = "*"
 pandas = "*"
 numpy = "*"
 ipykernel = "*"
+onnxmltools = "*"
 
 [requires]
 python_version = "3.11"

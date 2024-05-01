@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+loguru = "*"
+environ-config = "*"
+python-dotenv = "*"
+
+[dev-packages]
+ruff = "*"
+scikit-learn = "*"
+lightgbm = "*"
+xgboost = "*"
+pandas = "*"
+numpy = "*"
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"
